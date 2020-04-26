@@ -1,0 +1,5 @@
+C:\Users\Pavel\source\repos\TestThreadPool\TestThreadPool\bin\Debug\TestThreadPool.exe
+C:\Users\Pavel\source\repos\TestThreadPool\TestThreadPool\bin\Debug\TestThreadPool.pdb
+C:\Users\Pavel\source\repos\TestThreadPool\TestThreadPool\obj\Debug\TestThreadPool.exe
+C:\Users\Pavel\source\repos\TestThreadPool\TestThreadPool\obj\Debug\TestThreadPool.pdb
+C:\Users\Pavel\source\repos\TestThreadPool\TestThreadPool\obj\Debug\TestThreadPool.csprojAssemblyReference.cache
